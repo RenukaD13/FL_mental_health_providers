@@ -11,8 +11,8 @@
 * [Conclusion](#conclusion)
 * [Sources](#sources)
 
-# PowerBi Dashboard
-Link here
+### PowerBi Dashboard : 
+https://app.powerbi.com/view?r=eyJrIjoiMjNkMzU0MDEtNGUwNS00ZWQ3LWE1YmItNWExODAwMzMzMzVjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ### Motivation
 While looking into the mental health data of Florida, it was revealed that the state ranked first in the number of adults experiencing mental illness but 43rd in mental health workforce availability. After researching more, the interesting fact caught my attention which is, Florida’s community mental health system is fully privatized—it contracts with private programs to offer state-funded mental health services. This project aims to explore how a private mental health care provider is positively impacting patient outcomes and improving access to providers and quality resources.
